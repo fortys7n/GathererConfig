@@ -32,7 +32,7 @@
 	"IronRazor":"true",
 	"PriRazor":"false",
 	"Firewater":"true",
-    "OnlyTWWGather":"false",
+    	"OnlyTWWGather":"false",
 	"IgnWarChest":"true",
 	"Gatherrange":"500",
 	"BlacklRadius":"3",
